@@ -25,9 +25,12 @@ Contains SQL queries that:
 
 ## How to run 
 
-Create the database: 
+Open terminal and run: 
 sqlite3 books.db
-.read create_tables.sql
+
+Then run: 
+.read create_tables_sql
 .read insert_data.sql
 
-Then run queries from "queries-sql". 
+To test queries: 
+.read queries.sql 
