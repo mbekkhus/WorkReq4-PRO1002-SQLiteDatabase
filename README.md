@@ -29,7 +29,7 @@ Open terminal and run:
 sqlite3 books.db
 
 Then run: 
-.read create_tables_sql
+.read create_tables.sql
 .read insert_data.sql
 
 To test queries: 
